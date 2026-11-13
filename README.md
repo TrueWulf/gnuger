@@ -29,9 +29,6 @@ The score is a weighted share of detected catalog entries:
 GNU/GPL points * 100 / (GNU/GPL points + non-GNU points)
 ```
 
-GNU/GPL entries are shown in gray in a terminal. Replacement text is shown in
-bright white. Colors are disabled when output is redirected.
-
 ## license
 
-0BSD. See `LICENSE`.
+0BSD, see LICENSE.
